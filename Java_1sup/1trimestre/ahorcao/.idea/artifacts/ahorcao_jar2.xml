@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ahorcao:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/ahorcao_jar2</output-path>
+    <root id="archive" name="ahorcao.jar">
+      <element id="module-output" name="ahorcao" />
+    </root>
+  </artifact>
+</component>

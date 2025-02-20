@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Act3.6:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Act3_6_jar</output-path>
+    <root id="archive" name="Act3.6.jar">
+      <element id="module-output" name="Act3.6" />
+    </root>
+  </artifact>
+</component>

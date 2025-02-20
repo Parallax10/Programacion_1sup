@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hundielbarco:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hundielbarco_jar</output-path>
+    <root id="archive" name="hundielbarco.jar">
+      <element id="module-output" name="hundielbarco" />
+    </root>
+  </artifact>
+</component>

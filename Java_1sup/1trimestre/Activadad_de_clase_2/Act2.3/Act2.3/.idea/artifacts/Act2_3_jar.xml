@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Act2.3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Act2_3_jar</output-path>
+    <root id="archive" name="Act2.3.jar">
+      <element id="module-output" name="Act2.3" />
+    </root>
+  </artifact>
+</component>

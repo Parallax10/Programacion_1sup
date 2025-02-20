@@ -1,0 +1,12 @@
+Gato-Cat
+Perro-Dog
+Casa-House
+Coche-Car
+Libro-Book
+Mesa-Table
+Silla-Chair
+Agua-Water
+Sol-Sun
+Luna-Moon
+Pato-Duck
+Zorro-Fox

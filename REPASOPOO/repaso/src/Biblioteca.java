@@ -60,8 +60,17 @@ public class Biblioteca {
         System.out.println("¡se a agregado de forma correcta!");
     }
     public  void listarLibros(){
-        ArrayList<Libro> libros=Socio.getLibro();
-
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Dime el nombre del socio");
+        String nombre=sc.nextLine();
+        for (Socio socio : socios) {
+            if(socio.getNombre().equals(nombre)){
+                ArrayList<Libro> libros = socio.getLibro();
+                for (Libro libro : libros) {
+                    System.out.println(libro);
+                }
+            }
+        }
     }
     public void prestarLibro(){}
     public void devolverLibro(){}

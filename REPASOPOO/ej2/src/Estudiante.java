@@ -5,6 +5,7 @@ public class Estudiante extends Persona{
     //ArrayList<Asistencia> Asistencia;
     @Override
     public void registrarAsistencia(String clase, String fecha) {
+        System.out.println(clase);
 
     }
 }

@@ -39,7 +39,6 @@ public class Main {
                     e.printStackTrace();
                     error=true;
                 }
-
             }
             if (error==true) {
                 System.out.println("Ocurrió un error al escribir en el archivo.");

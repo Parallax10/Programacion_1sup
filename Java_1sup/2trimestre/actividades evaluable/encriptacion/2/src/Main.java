@@ -10,11 +10,11 @@ public class Main {
         int clave=3;
         Scanner sc = new Scanner(System.in);
 
-        // Solicitar la ruta del archivo al usuario
+        //pedir la ruta del archivo al usuario
         System.out.println("Por favor, introduce la ruta completa del archivo que deseas leer:");
         String rutaArchivo = sc.nextLine(); // tiene que ser asi la ruta C:\\Users\\TuUsuario\\Documents\\archivo.txt
 
-        // Leer el archivo utilizando BufferedReader
+        //leer el archivo utilizando BufferedReader
         try (BufferedReader lector = new BufferedReader(new FileReader(rutaArchivo))) {
             String linea=lector.readLine();
             char[] caracteres = linea.toCharArray();
@@ -28,17 +28,13 @@ public class Main {
                 String nombrearchivo = sc1.nextLine();
                 for (int i = 0; i < caracteres.length; i++) {
                     char[] caracteresenasci = new char[]{(char) (caracteres[i] - clave)};
-
-
                     try (FileWriter escritor = new FileWriter(nombrearchivo+".txt",true)) {
                         // false indica que se sobre escribe el texto del  archivo si este existe para que no lo sobre escriba usar true
                         escritor.write(caracteresenasci);
-
                     } catch (IOException e) {
                         e.printStackTrace();
                         error=true;
                     }
-
                 }
                 if (error==true) {
                     System.out.println("Ocurrió un error al escribir en el archivo.");

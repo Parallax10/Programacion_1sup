@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f06d117c-7044-4f3e-9f56-2e752afd8612" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/bdd/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controlador/usuariocontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controladores/controladorlibro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controladores/prestamocontrolador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modelo/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modelo/Prestamo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modelo/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vista/vista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/controller/LibroController1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/controller/PrestamoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/controller/UsuarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/dao/ConexionBD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/dao/LibroDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/dao/PrestamoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/dao/UsuarioDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/model/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/model/Prestamo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/model/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/view/LibroPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/view/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/view/PrestamoPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/view/UsuarioPanel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2wXt02BTPu0332mEaRHksbcvepl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f06d117c-7044-4f3e-9f56-2e752afd8612" name="Changes" comment="" />
+      <created>1746199522242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746199522242</updated>
+      <workItem from="1746199523343" duration="745000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/controladores/prestamocontrolador.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
